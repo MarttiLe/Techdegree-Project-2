@@ -286,12 +286,11 @@ footer .footer-nav {
   }
 
   .portfolio-items article {
-    width: 33%;
+    width: 33.33%;
     float: left;
     margin: 0;
     margin-bottom: 60px;
     padding: 0 10px;
-    margin-left: -1px;
   }
 
   footer {
@@ -302,7 +301,6 @@ footer .footer-nav {
     margin-top: 45px;
     padding-top: 75px;
   }
-
 
 
   footer .footertext {
